@@ -2,6 +2,8 @@
 
 Este repositório contém o código-fonte e a implementação prática dos testes automatizados desenvolvidos para o Trabalho Avaliativo da disciplina de Qualidade de Software. O objetivo é demonstrar a aplicação do framework **JUnit 5** integrado ao **REST Assured** em um cenário real de backend.
 
+* Veja todas as classes de testes [AQUI](https://github.com/tanzbr/junit-cenariopratico/tree/main/src/test/java/me/caua/egiftstore/resource).
+
 ## 📋 Sobre o Projeto Alvo
 
 O sistema testado é o **eGiftStore**, uma API REST desenvolvida em Java com Quarkus para gerenciamento de uma loja de Gift Cards. O sistema abrange funcionalidades como:
